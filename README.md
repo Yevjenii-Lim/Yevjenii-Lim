@@ -1,5 +1,9 @@
-### Hi there 👋
-
+# Hi there My name is **Yevhenii Lim** 👋
+## I`m junior front-end developer 
+### Check my resume: https://yevjenii-lim.github.io/
+### Currently learning React Js
+### How to reach me: +380680534746, yevhenii.lim27@gmail.com
+### All my last repositories is on React check it out
 <!--
 **Yevjenii-Lim/Yevjenii-Lim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
