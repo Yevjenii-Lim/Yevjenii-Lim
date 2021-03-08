@@ -5,10 +5,10 @@
 ### How to reach me: +380680534746, yevhenii.lim27@gmail.com
 ### All my last repositories is on React check it out
 ## Languages and Technologies: 
-![HTML](https://img.shields.io/badge<HTml><black>)
+HTML, CSS, JS, React, Redux, Rest Api
 <!--
 **Yevjenii-Lim/Yevjenii-Lim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![HTML](https://img.shields.io/badge<HTml><black>)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
