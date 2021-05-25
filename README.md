@@ -1,7 +1,7 @@
 # Hi there My name is **Yevhenii Lim** 👋
 ## I`m junior front-end developer 
 ### Check my resume: https://yevjenii-lim.github.io/
-### Currently learning React Js
+### Currently learning React Js and Python Flask
 ### How to reach me: +380680534746, yevhenii.lim27@gmail.com
 ### All my last repositories is on React check it out
 ## Languages and Technologies: 
