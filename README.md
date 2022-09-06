@@ -1,4 +1,4 @@
-# Hi there My name is **Yevhenii Lim** 👋
+# Hi My name is **Yevhenii Lim** 👋
 ### Currently learning Java
 ### How to reach me: +380680534746, yevhenii.lim27@gmail.com
 ### All my last repositories is on React check it out
